@@ -121,10 +121,6 @@ Learning outcomes:
 
 Lab: [Hypothesis Testing](./M4/lessons/01_hypothesis_testing.ipynb).
 
-Exercises:
-
-1. [Hypothesis Testing](./M4/exercises/hypothesis_ex.ipynb) (3 questions)
-
 ### M4-2: Association and Correlation
 
 Learning outcomes:
@@ -144,3 +140,7 @@ Labs:
 
 1. [Categorical Association](./M4/lessons/02_cat_association.ipynb)
 2. [Numerical Correlation](./M4/lessons/03_num_correlation.ipynb)
+
+Exercises:
+
+1. [Hypothesis Testing](./M4/exercises/hypothesis_ex.ipynb) (4 questions)
